@@ -1,4 +1,4 @@
-# Project Proposal
+# The Project Proposal
 
 ## The Properties-Based-Properties Collaborative Filtering Recommendation Algorithm
 
